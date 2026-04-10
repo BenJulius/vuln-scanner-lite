@@ -23,9 +23,11 @@ A lightweight, conceptual vulnerability scanner built in Python. This tool perfo
 
 Bash
 pip install -r requirements.txt
+
 3. Run the scanner:
 
 Bash
 python scanner.py example.com
+
 Disclaimer
 This tool is for educational purposes only. Only scan domains and IP addresses that you own or have explicit permission to test.
