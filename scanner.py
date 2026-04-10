@@ -17,9 +17,12 @@ SECURITY_HEADERS = [
 ]
 
 def print_banner():
-    print("-" * 50)
+    print("-" * 60)
     print("🛡️  Vulnerability Scanner Lite")
-    print("-" * 50)
+    print("-" * 60)
+    print("DISCLAIMER: For educational purposes only.")
+    print("Only scan domains and IPs you own or have permission to test.")
+    print("-" * 60)
 
 def check_https(url):
     print("\n[+] Checking HTTPS Enforcement...")
