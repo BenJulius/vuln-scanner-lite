@@ -19,3 +19,13 @@ A lightweight, conceptual vulnerability scanner built in Python. This tool perfo
    ```bash
    git clone [https://github.com/BenJulius/vuln-scanner-lite.git](https://github.com/BenJulius/vuln-scanner-lite.git)
    cd vuln-scanner-lite
+2. Install the required dependencies:
+
+Bash
+pip install -r requirements.txt
+3. Run the scanner:
+
+Bash
+python scanner.py example.com
+Disclaimer
+This tool is for educational purposes only. Only scan domains and IP addresses that you own or have explicit permission to test.
