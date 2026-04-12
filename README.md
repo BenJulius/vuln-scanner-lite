@@ -2,7 +2,7 @@
 
 A lightweight, conceptual vulnerability scanner built in Python. This tool performs automated reconnaissance to identify common web misconfigurations and exposed network services using native Python libraries.
 
-![Vulnerability Scan Preview](scanner-preview.png)
+![Vulnerability Scan Preview](images/scanner-preview.png)
 
 ## Infrastructure & Logic
 
